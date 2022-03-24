@@ -1,36 +1,23 @@
 # noob
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
+restful api in clojure
 
 ## Usage
 
-FIXME: explanation
+```
+lein run
+```
 
-    $ java -jar noob-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+## Features
+* http-kit
+* compojure
+* ring
+* data.json
+* GET/POST
 
 ## License
 
-Copyright © 2022 FIXME
+Copyright © 2022 zTgx
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
