@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json"  -d '{"firstname": "tian", "surname": "zh"}'     http://127.0.0.1:3000/add-person-handler
