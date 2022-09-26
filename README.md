@@ -1,6 +1,6 @@
-# noob
+# clojured
 
-restful api in clojure
+Multiplayer Online Game Server In Clojure.
 
 ## Usage
 
